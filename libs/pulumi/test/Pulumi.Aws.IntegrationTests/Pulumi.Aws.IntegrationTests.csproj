@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="AWSSDK.EC2" Version="3.7.17.1" />
-    <PackageReference Include="AWSSDK.SecurityToken" Version="3.7.1.30" />
+    <PackageReference Include="AWSSDK.SecurityToken" Version="3.7.1.45" />
     <PackageReference Include="Fixie" Version="2.2.2" />
     <PackageReference Include="Shouldly" Version="4.0.3" />
     <DotNetCliToolReference Include="Fixie.Console" Version="2.2.2" />
