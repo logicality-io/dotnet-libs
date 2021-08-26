@@ -11,7 +11,7 @@
     <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.1.0" />
     <PackageReference Include="Amazon.Lambda.APIGatewayEvents" Version="2.4.0" />
     <PackageReference Include="Amazon.Lambda.SQSEvents" Version="2.0.0" />
-    <PackageReference Include="AWSSDK.Lambda" Version="3.7.1.5" />
+    <PackageReference Include="AWSSDK.Lambda" Version="3.7.3.4" />
     <PackageReference Include="AWSSDK.SQS" Version="3.7.0.41" />
     <PackageReference Include="AWSSDK.StepFunctions" Version="3.7.0.43" />
     <PackageReference Include="coverlet.collector" Version="3.0.3">
